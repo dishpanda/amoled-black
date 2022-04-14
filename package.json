@@ -1,17 +1,17 @@
 {
-  "name": "amoled-black",
-  "displayName": "AMOLED Black Theme",
+  "name": "amoled-black-custom",
+  "displayName": "Rahul's AMOLED Black Theme",
   "description": "another dark theme",
   "version": "0.1.0",
   "author": {
-    "name": "Erfan Khadivar",
-    "url": "https://github.com/rendinjast"
+    "name": "Rahul Deshpande",
+    "url": "https://github.com/dishpanda"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rendinjast/amoled-black.git"
+    "url": "https://github.com/dishpanda/amoled-black.git"
   },
-  "publisher": "rendinjast",
+  "publisher": "dishpanda",
   "icon": "img/logo.jpg",
   "engines": {
     "vscode": "^1.56.0"
@@ -22,12 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "AMOLED Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/amoled-dark-color-theme.json"
-      },
-      {
-        "label": "AMOLED Black Shiny",
+        "label": "Rahul's AMOLED Black Shiny",
         "uiTheme": "vs-dark",
         "path": "./themes/amoled-dark-shiny-color-theme.json"
       }

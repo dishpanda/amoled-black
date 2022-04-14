@@ -1,5 +1,5 @@
 {
-	"name": "Amoled Dark Theme - Shiny",
+	"name": "Rahul's Amoled Dark Theme - Shiny",
 	"type": "dark",
 	"colors": {
 	  "contrastBorder": "#343434",
@@ -20,8 +20,8 @@
 	  "editor.foldBackground": "#0e0e0e",
 	  "editor.hoverHighlightBackground": "#242424",
 	  "editor.inactiveSelectionBackground": "#242424",
-	  "editor.lineHighlightBackground": "#343434",
-	  "editor.lineHighlightBorder": "#343434",
+	  "editor.lineHighlightBackground": "#1d1d1d",
+	  "editor.lineHighlightBorder": "#1d1d1d",
 	  "editor.rangeHighlightBackground": "#343434",
 	  "editor.selectionBackground": "#3793E033",
 	  "editor.selectionHighlightBackground": "#343434",
